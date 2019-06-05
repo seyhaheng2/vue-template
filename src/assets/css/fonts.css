@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url("../fonts/poppins.woff2") format("woff2");
+  }
+@font-face {
+    font-family: 'PoppinsLight';
+    src: url("../fonts/poppins_light.woff2") format("woff2");
+  }
